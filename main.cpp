@@ -34,6 +34,7 @@ void sortDescending(int first, int second, int third)
     swap(second,third);
   }
 }
+//sortDescending takes in number inputs and sorts them in descending order
 
 void swap(int &first, int &second)
 {
@@ -41,3 +42,4 @@ void swap(int &first, int &second)
   first = second;
   second = temp;
 }
+//swap takes in two variables and swaps them 
