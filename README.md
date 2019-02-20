@@ -1,5 +1,7 @@
 # Trio
 
+[![Build Status](https://travis-ci.org/eisleyadore/Trio.svg?branch=master)](https://travis-ci.org/eisleyadore/Trio)
+
 This C++ program receives three integers and tells the user the numbers in descending (largest-to-smallest) order.
 
 ## Getting Started
